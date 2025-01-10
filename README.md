@@ -16,6 +16,7 @@ python manage.py migrate
 python manage.py runserver
 
 ## Tech Stack
-- Django
+- Python 3+
+- Django 3+
 - Django REST Framework
-- SQLite3
+- Django-YASG (Swagger)
